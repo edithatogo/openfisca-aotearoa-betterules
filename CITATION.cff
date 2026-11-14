@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it using the metadata in this file.
+title: openfisca-aotearoa-betterules
+authors:
+- name: openfisca-aotearoa-betterules project
+repository-code: https://github.com/edithatogo/openfisca-aotearoa-betterules
